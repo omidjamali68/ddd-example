@@ -1,0 +1,17 @@
+D:\Dev\projects\ddd-example\src\persistence\obj\Debug\net7.0\Persistence.csproj.AssemblyReference.cache
+D:\Dev\projects\ddd-example\src\persistence\obj\Debug\net7.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\projects\ddd-example\src\persistence\obj\Debug\net7.0\Persistence.AssemblyInfoInputs.cache
+D:\Dev\projects\ddd-example\src\persistence\obj\Debug\net7.0\Persistence.AssemblyInfo.cs
+D:\Dev\projects\ddd-example\src\persistence\obj\Debug\net7.0\Persistence.csproj.CoreCompileInputs.cache
+D:\Dev\projects\ddd-example\src\Persistence\bin\Debug\net7.0\Persistence.deps.json
+D:\Dev\projects\ddd-example\src\Persistence\bin\Debug\net7.0\Persistence.dll
+D:\Dev\projects\ddd-example\src\Persistence\bin\Debug\net7.0\Persistence.pdb
+D:\Dev\projects\ddd-example\src\Persistence\bin\Debug\net7.0\Domain.dll
+D:\Dev\projects\ddd-example\src\Persistence\bin\Debug\net7.0\Resources.dll
+D:\Dev\projects\ddd-example\src\Persistence\bin\Debug\net7.0\Domain.pdb
+D:\Dev\projects\ddd-example\src\Persistence\bin\Debug\net7.0\Resources.pdb
+D:\Dev\projects\ddd-example\src\Persistence\obj\Debug\net7.0\Persistence.csproj.CopyComplete
+D:\Dev\projects\ddd-example\src\Persistence\obj\Debug\net7.0\Persistence.dll
+D:\Dev\projects\ddd-example\src\Persistence\obj\Debug\net7.0\refint\Persistence.dll
+D:\Dev\projects\ddd-example\src\Persistence\obj\Debug\net7.0\Persistence.pdb
+D:\Dev\projects\ddd-example\src\Persistence\obj\Debug\net7.0\ref\Persistence.dll

@@ -1,0 +1,12 @@
+D:\Dev\projects\ddd-example\src\resources\obj\Debug\net7.0\resources.csproj.AssemblyReference.cache
+D:\Dev\projects\ddd-example\src\resources\bin\Debug\net7.0\resources.deps.json
+D:\Dev\projects\ddd-example\src\resources\bin\Debug\net7.0\resources.dll
+D:\Dev\projects\ddd-example\src\resources\bin\Debug\net7.0\resources.pdb
+D:\Dev\projects\ddd-example\src\resources\obj\Debug\net7.0\resources.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\projects\ddd-example\src\resources\obj\Debug\net7.0\resources.AssemblyInfoInputs.cache
+D:\Dev\projects\ddd-example\src\resources\obj\Debug\net7.0\resources.AssemblyInfo.cs
+D:\Dev\projects\ddd-example\src\resources\obj\Debug\net7.0\resources.csproj.CoreCompileInputs.cache
+D:\Dev\projects\ddd-example\src\resources\obj\Debug\net7.0\resources.dll
+D:\Dev\projects\ddd-example\src\resources\obj\Debug\net7.0\refint\resources.dll
+D:\Dev\projects\ddd-example\src\resources\obj\Debug\net7.0\resources.pdb
+D:\Dev\projects\ddd-example\src\resources\obj\Debug\net7.0\ref\resources.dll

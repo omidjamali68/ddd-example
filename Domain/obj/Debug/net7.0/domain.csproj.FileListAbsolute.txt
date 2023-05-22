@@ -1,0 +1,15 @@
+D:\Dev\projects\ddd-example\src\domain\bin\Debug\net7.0\domain.deps.json
+D:\Dev\projects\ddd-example\src\domain\bin\Debug\net7.0\domain.dll
+D:\Dev\projects\ddd-example\src\domain\bin\Debug\net7.0\domain.pdb
+D:\Dev\projects\ddd-example\src\domain\bin\Debug\net7.0\resources.dll
+D:\Dev\projects\ddd-example\src\domain\bin\Debug\net7.0\resources.pdb
+D:\Dev\projects\ddd-example\src\domain\obj\Debug\net7.0\domain.csproj.AssemblyReference.cache
+D:\Dev\projects\ddd-example\src\domain\obj\Debug\net7.0\domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\projects\ddd-example\src\domain\obj\Debug\net7.0\domain.AssemblyInfoInputs.cache
+D:\Dev\projects\ddd-example\src\domain\obj\Debug\net7.0\domain.AssemblyInfo.cs
+D:\Dev\projects\ddd-example\src\domain\obj\Debug\net7.0\domain.csproj.CoreCompileInputs.cache
+D:\Dev\projects\ddd-example\src\domain\obj\Debug\net7.0\domain.csproj.CopyComplete
+D:\Dev\projects\ddd-example\src\domain\obj\Debug\net7.0\domain.dll
+D:\Dev\projects\ddd-example\src\domain\obj\Debug\net7.0\refint\domain.dll
+D:\Dev\projects\ddd-example\src\domain\obj\Debug\net7.0\domain.pdb
+D:\Dev\projects\ddd-example\src\domain\obj\Debug\net7.0\ref\domain.dll
